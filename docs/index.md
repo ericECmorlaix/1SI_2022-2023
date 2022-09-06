@@ -16,21 +16,6 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-
-## Le 02/09
-
-=== "CONTENU DE SÉANCE"
-
-    - Accueil -> ==**remplir** une fiche d'informations== ;
-    - [Présentation de la matière](http://si.lycee.ecmorlaix.fr/){target=_blank} -> ==**préciser** le rôle des ingénieurs dans la société== ;
-    - Initier [un classeur numérique pour la SI sur GitHub](./github) -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
-
-=== "TRAVAIL À FAIRE"
-
-    **Finaliser** votre fiche d'informations au format MarkDown et la transmettre par [mail] ;
-
-
-
 ## Le 07/09 :
 
 === "CONTENU DE SÉANCE"
@@ -44,4 +29,18 @@
 === "TRAVAIL À FAIRE"
 
     **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
+
+***
+
+## Le 02/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Accueil -> ==**remplir** une fiche d'informations== ;
+    - [Présentation de la matière](http://si.lycee.ecmorlaix.fr/){target=_blank} -> ==**préciser** le rôle des ingénieurs dans la société== ;
+    - Initier [un classeur numérique pour la SI sur GitHub](./github) -> ==**numériser** votre fiche d'informations au format MarkDown et la transmettre par [mail]== ;
+
+=== "TRAVAIL À FAIRE"
+
+    **Finaliser** votre fiche d'informations au format MarkDown et la transmettre par [mail] ;
 
