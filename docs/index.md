@@ -35,12 +35,13 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Finir la mise en place d'[un classeur numérique pour la SI sur GitHub](./github) -> ==Questionnement dépôt public ou privé, poids d'un mail avec PJ ?== ;
+    - Finir la mise en place d'[un classeur numérique pour la SI sur GitHub](./github) -> ==**Se questionner** : dépôt public ou privé, poids d'un mail avec PJ, ... ?== ;
 
-    - Cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​} [:fontawesome-solid-download: Télécharger ce notebook](https://raw.githubusercontent.com/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary }​ : découverte du SysML et de l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){target=_blank} ;
+    - Cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​} -> ==découvrir le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){target=_blank} ;==  
+    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } 
 
 
 === "TRAVAIL À FAIRE"
 
-    **reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
+    **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
 
