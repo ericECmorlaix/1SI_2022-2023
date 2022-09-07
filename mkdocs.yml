@@ -30,12 +30,12 @@ nav:
     #   - Modeliser_ma_rue.md
     - Communiquer :
       - GitHub+MarkDown+GitPod+... : github.md
-      - Les notebook jupyter :
-        - Découverte : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/decouverte-notebook.ipynb
-        - Markdown : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb
-        - HTML : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/HTML-Le_BN_pour_multimedier.ipynb
-        - LaTeX : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/LaTeX-Le_BN_pour_formuler.ipynb
-        - Calcul : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb
+      - Les notebook jupyter : notebook.md
+        # - Découverte : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/decouverte-notebook.ipynb
+        # - Markdown : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb
+        # - HTML : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/HTML-Le_BN_pour_multimedier.ipynb
+        # - LaTeX : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/LaTeX-Le_BN_pour_formuler.ipynb
+        # - Calcul : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb
     
     
 
