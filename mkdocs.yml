@@ -30,7 +30,7 @@ nav:
     #   - Modeliser_ma_rue.md
     - Communiquer :
       - GitHub+MarkDown+GitPod+... : github.md
-      - Les notebook jupyter : notebook.md
+      - Les Notebook Jupyter : notebook.md
         # - Découverte : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/decouverte-notebook.ipynb
         # - Markdown : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/MarkDown-Le_BN_pour_rapporter.ipynb
         # - HTML : https://nbviewer.org/urls/ericecmorlaix.github.io/bn/HTML-Le_BN_pour_multimedier.ipynb
