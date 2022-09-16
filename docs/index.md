@@ -16,17 +16,25 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 14/09 : (2x1h)
+## Du 14 au 16/09 : (2h + 2x1h)
 
 === "CONTENU DE SÉANCE"
 
     - Cours [Analyse Fontionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank​} -> ==**découvrir** plus avant le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){target=_blank} ;==  
     [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/AF/OutilsAnalyseFonctionnelleInterne.ipynb){ .md-button .md-button--primary } 
 
+    - **Réviser** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
+    
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](./notebook)
+
 
 === "TRAVAIL À FAIRE"
 
     **Finir** sur drawio un dessin présentant les chaines d'information et de puissance de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2022-2023/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
+
+    - **Réviser** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
+    
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](./notebook)
 
 *** 
 ## Les 08 et 09/09 : (2x1h)
