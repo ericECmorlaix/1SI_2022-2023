@@ -21,7 +21,7 @@
 === "CONTENU DE SÉANCE"
 
     - Correction du travail demandé... ;
-    - Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2021-2022/CI/ChaineInformation-Numeration.ipynb){target="_blank"} ->==**Faire** les exercices de conversion...== ;
+    - Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/ChaineInformation-Numeration.ipynb){target="_blank"} ->==**Faire** les exercices de conversion...== ;
     [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/CI/ChaineInformation-Numeration.ipynb){ .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
@@ -29,7 +29,7 @@
     - **Finir** les exercices de conversion ;
     - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 23/09_**
 
-
+***
 ## Du 14 au 16/09 : (2h + 2x1h)
 
 === "CONTENU DE SÉANCE"
