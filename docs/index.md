@@ -27,7 +27,7 @@
 === "TRAVAIL À FAIRE"
     
     - **Finir** les exercices de conversion ;
-    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 23/09_**
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le mercredi 28/09_**
 
 ***
 ## Du 14 au 16/09 : (2h + 2x1h)
