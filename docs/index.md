@@ -25,7 +25,7 @@
     - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} ;
 
     - Poursuite de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
+    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
 
 === "TRAVAIL À FAIRE"
     
