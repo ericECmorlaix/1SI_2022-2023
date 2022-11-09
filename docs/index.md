@@ -15,6 +15,27 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+
+***
+## Le 09/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse et correction des exercices du TAF :
+        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
+        - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} (+ présentation tableau de [Karnaugh](https://www.positron-libre.com/cours/electronique/logique-combinatoire/tableau-karnaugh/tableau-karnaugh.php){target=_blank});
+        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
+        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
+    - Evaluation sur les fonctions logiques de la chaine d'information ;
+    - Présentation d'un [tutoriel pour l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} -> ==Avec l'aide de ShortCut d'automatisation [Capter idée](https://www.icloud.com/shortcuts/40a6686913734aaca605dc1081791336) et [Partager Média](https://www.icloud.com/shortcuts/6285c561258343bfb06b6b58a1956258) collecter des données sur une note du jour dans votre coffre d'Obsidian localisé sur votre iPad== ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
+    
+    - **Finir** l'expérimentation des [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} : ==**Convertir** le `notebook.ipynb` de Carnets complété en `note.md` d'Obsidian et   les **transmettre** par [mail]==.
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2022-2023/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
+
 ***
 ## Les 13, 14/10 : (1h x 2)
 
@@ -42,9 +63,6 @@
         - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
         - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
         - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
-
-
-
 
 ***
 
