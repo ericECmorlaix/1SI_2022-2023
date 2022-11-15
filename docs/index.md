@@ -17,7 +17,20 @@
 
 
 ***
-## Le 09/11
+## Le 16/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Lire le [cours](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank} sur les différentes formes d'énergie et faire les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
+    - Finir les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
+
+***
+## Les 09 et 10/11
 
 === "CONTENU DE SÉANCE"
 
