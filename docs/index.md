@@ -15,13 +15,37 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+***
+## Le 18/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Lire le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} et appliquer à l'étude d'un [mini-compresseur](./CP/Les_principales_puissances-Exercice_Mini-Compresseur.pdf){target=_blank} en observant le système et sa [maquette numérique](./CP/mini-compresseur.zip) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
+    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
+    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank}
+
+***
+## Le 17/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'[exercice 7](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} -> ==Réaliser le schéma avec Escalidraw dans Obsidian== ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
+    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
 
 ***
 ## Le 16/11
 
 === "CONTENU DE SÉANCE"
 
-    - Lire le [cours](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank} sur les différentes formes d'énergie et faire les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+    - Lire le [cours sur les différentes formes d'énergie](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank}  et faire les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
