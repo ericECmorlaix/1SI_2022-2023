@@ -16,19 +16,44 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 23/11
+## Le 25/11
 
 === "CONTENU DE SÉANCE"
-
-    - Correction de l'étude d'un [mini-compresseur](./CP/Les_principales_puissances-Exercice_Mini-Compresseur.pdf){target=_blank} en observant le système et sa [maquette numérique](./CP/mini-compresseur.zip) ;
 
     - Relire le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} et lire le document ressource sur [l'énergie chimique](./CP/Les_principales_puissances-Exercice_2-Document_ressources.pdf){target=_blank} pour faire l'[application au robot Camper Trolley](./CP/Les_principales_puissances-Exercice_2.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
     - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
-    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
-    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank}
+    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? -> ==Réaliser une note littéraire dans Obsidian== ;    
+    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ;
+    
+***
+## Le 24/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur **Energie-Puissance-Rendement** ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
+    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? -> ==Réaliser une note littéraire dans Obsidian== ;    
+    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ;
+
+***
+## Le 23/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'étude d'un [mini-compresseur](./CP/Les_principales_puissances-Exercice_Mini-Compresseur.pdf){target=_blank} en observant le système et sa [maquette numérique](./CP/mini-compresseur.zip) -> ==Réaliser un schéma de la chaine de puissance présentant les grandeurs d'efforts/flux et leurs unités avec Escalidraw dans Obsidian== ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
+    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? -> ==Réaliser une note littéraire dans Obsidian== ;
+    - Se préparer pour une évaluation sur **Energie-Puissance-Rendement** ;
+    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ;
 
 ***
 
