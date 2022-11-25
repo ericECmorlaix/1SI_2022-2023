@@ -20,7 +20,7 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Relire le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} et lire le document ressource sur [l'énergie chimique](./CP/Les_principales_puissances-Exercice_2-Document_ressources.pdf){target=_blank} pour faire l'[application au robot Camper Trolley](./CP/Les_principales_puissances-Exercice_2.pdf){target=_blank} ;
+    - Relire le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} et lire le document ressource sur [l'énergie chimique](./CP/Les_principales_puissances-Exercice_2-Document_ressources.pdf){target=_blank} pour faire l'[application au robot Camper Trolley](./CP/Les_principales_puissances-Exercice_2.pdf){target=_blank} + [Camper_DT1.pdf](./CP/Camper_DT1.pdf){target=_blank} ;
 
 === "TRAVAIL À FAIRE"
 
