@@ -59,7 +59,7 @@ Différentes solutions logicielles permettent de réaliser des constructions vir
     <figure markdown>
     <figcaption>Renseigner alors tous les champs du formulaire en deux étapes.</figcaption>
     ![Onshape](https://ericecmorlaix.github.io/1SI_2022-2023/images/OnshapeFormulaire01.png){ width="60%" .center }
-    ![Onshape](https://ericecmorlaix.github.io1SI_2022-2023/images/OnshapeFormulaire02.png){ width="60%" .center }
+    ![Onshape](https://ericecmorlaix.github.io/1SI_2022-2023/images/OnshapeFormulaire02.png){ width="60%" .center }
     <figcaption>Dans une troisième étape, il faut valider l'inscription depuis le mail reçu et définir un mot de passe...</figcaption>
     </figure>
     <p>
