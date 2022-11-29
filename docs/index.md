@@ -16,6 +16,20 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 30 au 16/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Corrections et bilan du trimestre...
+    - **Finir** l'[application au robot Camper Trolley](./CP/Les_principales_puissances-Exercice_2.pdf){target=_blank} + [Camper_DT1.pdf](./CP/Camper_DT1.pdf){target=_blank} ;
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+
+=== "TRAVAIL À FAIRE"
+
+    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ;
+    - Poursuivre l'apprentissage du cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
+    
+***
 ## Le 25/11
 
 === "CONTENU DE SÉANCE"
