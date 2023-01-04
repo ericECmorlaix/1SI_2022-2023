@@ -16,6 +16,22 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 04/01
+
+=== "CONTENU DE SÉANCE"
+   
+    - Retour sur les exercices d'énergétique à remettre et réalisation dans Obsidian avec le module complémentaire [Spaced Repetition](obsidian://show-plugin?id=obsidian-spaced-repetition)  de [flashcards partagées](https://codimd.apps.education.fr/vU39nL_3SeqhoRY7ewiBtg){target=_blank} pour se préparer à une évaluation...   
+
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : point d'étape du sprint 1, précisions de contraintes dimensionnelles des portes et fenêtres puis reprise en équipe du sprint 1 pour valider le test qu'un assemblage d'immeubles pris dans chaque équipe constitue une rue probable ;
+   
+
+=== "TRAVAIL À FAIRE"
+
+    - Rendre les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} et l'[application au robot Camper Trolley](./CP/Les_principales_puissances-Exercice_2.pdf){target=_blank} + [Camper_DT1.pdf](./CP/Camper_DT1.pdf){target=_blank} ;
+
+    - Poursuivre l'apprentissage du cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} en particulier le [robot effibot](https://drive.google.com/file/d/106LSiFfObqF0QtIhmWBJHsZEOc9YGsXV/view){target=_blank} et la [pergolas bioclimatique](https://drive.google.com/file/d/1-R9vLaA3q4cYdeRRvD2e45aeeJE_ZkPR/view){target=_blank};
+    
+***
 ## Le 08/12
 
 === "CONTENU DE SÉANCE"
