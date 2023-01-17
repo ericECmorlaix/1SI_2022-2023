@@ -21,6 +21,7 @@
 === "CONTENU DE SÉANCE"
 
     - Modélisation cinématique des mécanismes, [les liaisons](./SC/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
+    
         - **Compléter** le [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons_à_compléter.pdf){target=_blank} à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank} et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank} concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
 
         - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank} et y **créer** des assemblages représentatifs des différentes liaisons...
