@@ -16,6 +16,23 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 18/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Modélisation cinématique des mécanismes, [les liaisons](./SC/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
+        - **Compléter** le [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons_à_compléter.pdf){target=_blank} à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank} et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank} concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
+
+        - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank} et y **créer** des assemblages représentatifs des différentes liaisons...
+        
+
+=== "TRAVAIL À FAIRE"
+
+    - Finir et transmettre l'exercice du [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view?pli=1){target=_blank};
+
+    - **Faire** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank}
+
+***
 ## Le 04/01
 
 === "CONTENU DE SÉANCE"
@@ -29,7 +46,7 @@
 
     - Rendre les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} et l'[application au robot Camper Trolley](./CP/Les_principales_puissances-Exercice_2.pdf){target=_blank} + [Camper_DT1.pdf](./CP/Camper_DT1.pdf){target=_blank} ;
 
-    - Poursuivre l'apprentissage du cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} en particulier le [robot effibot](https://drive.google.com/file/d/106LSiFfObqF0QtIhmWBJHsZEOc9YGsXV/view){target=_blank} et la [pergolas bioclimatique](https://drive.google.com/file/d/1-R9vLaA3q4cYdeRRvD2e45aeeJE_ZkPR/view){target=_blank};
+    - Poursuivre l'apprentissage du cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} en particulier le [robot effibot](https://drive.google.com/file/d/106LSiFfObqF0QtIhmWBJHsZEOc9YGsXV/view){target=_blank}, la [pergolas bioclimatique](https://drive.google.com/file/d/1-R9vLaA3q4cYdeRRvD2e45aeeJE_ZkPR/view){target=_blank} et le [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view?pli=1){target=_blank};
     
 ***
 ## Le 08/12
