@@ -16,7 +16,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 25/01
+## Le 26/01
 
 === "CONTENU DE SÉANCE"
 
@@ -36,7 +36,7 @@
     - **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank}
 
 ***
-## Le 18/01
+## Les 18 et 25/01
 
 === "CONTENU DE SÉANCE"
 
