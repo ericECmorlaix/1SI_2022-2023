@@ -16,6 +16,26 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 25/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse du [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons.pdf){target=_blank} et des assemblages équivalents sur OneShape [Liaisons_Complet](https://cad.onshape.com/documents/1982af944ddb00c206b97fd0/w/3c5af1718bffce6303b4aa9b/e/d7b31fab5f11622c6ca5f655?renderMode=0&uiState=61e57fcb1e79c93d00f48bdf){target=_blank} ;
+
+    - **Lire** le cours et **faire** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+
+    - **S'initier** à la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `fd48mmy5` fourni​​​ pour débuter le **Parcours_1** ;
+        - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
+        - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
+        - conserver une trace de vos scripts dans une note...
+        
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank}
+
+***
 ## Le 18/01
 
 === "CONTENU DE SÉANCE"
