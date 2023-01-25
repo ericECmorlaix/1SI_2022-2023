@@ -28,12 +28,13 @@
         - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `fd48mmy5` fourni​​​ pour débuter le **Parcours_1** ;
         - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
         - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
-        - conserver une trace de vos scripts dans une note...
+        
         
 
 === "TRAVAIL À FAIRE"
 
     - **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank}
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **Conserver** progressivement une trace de vos scripts dans une [`note.md`](https://raw.githubusercontent.com/ericECmorlaix/1SI_2022-2023/main/docs/PY/Quick_Pi-Objets_connectes-Parcours_1.md){target="_blank"} ou un [`notebook.ipynb`](https://raw.githubusercontent.com/ericECmorlaix/1SI_2022-2023/main/docs/PY/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target="_blank"} ;
 
 ***
 ## Les 18 et 25/01
