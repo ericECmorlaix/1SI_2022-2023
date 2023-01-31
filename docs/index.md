@@ -16,7 +16,26 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 26/01
+## Du 01/02
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse partielle du parcours_1 de la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+    - Modélisation cinématique des mécanismes :
+        - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
+        - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
+
+    - **Faire** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **conserver** progressivement une trace de vos scripts dans un [`notebook.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+
+***
+## Les 26 et 27/01
 
 === "CONTENU DE SÉANCE"
 
