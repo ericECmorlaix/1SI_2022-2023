@@ -16,6 +16,21 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Les 01 et 02/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse finale du parcours_1 de la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} ;
+    - Correction des shémas cinématiques du [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} ;
+    - Correction d'exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+    - Projets...
+    - Participation aux [activités d'escape game pour l'accueil des troisièmes](https://ericecmorlaix.github.io/accueil_3/){target=_blank} le 02/03 ;    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Se préparer** pour une évaluaion sur la programmation en Python pour le 03/03 et la modélisation des liaisons cinématiques pour le 08/03 ;    
+
+***
 ## Du 01/02
 
 === "CONTENU DE SÉANCE"
