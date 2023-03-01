@@ -28,7 +28,8 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Se préparer** pour une évaluaion sur la programmation en Python pour le 03/03 et la modélisation des liaisons cinématiques pour le 08/03 ;    
+    - **Se préparer** pour une évaluaion sur la programmation en Python pour le 03/03 et la modélisation des liaisons cinématiques pour le 08/03 ;
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;    
 
 ***
 ## Du 01/02
