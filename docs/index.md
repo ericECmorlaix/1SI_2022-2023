@@ -16,6 +16,43 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 09/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Activités de projets :
+        - [Bougeons ensemble](./Bougeons_ensemble) ;
+        - Course en cours ;
+        - ... ?    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
+## Le 08/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur la modélisation des liaisons cinématiques ;    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
+## Le 03/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur la programmation en Python ;    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Se préparer** pour une évaluation sur la modélisation des liaisons cinématiques pour le 08/03 ;
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
 ## Les 01 et 02/03
 
 === "CONTENU DE SÉANCE"
@@ -28,7 +65,7 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Se préparer** pour une évaluaion sur la programmation en Python pour le 03/03 et la modélisation des liaisons cinématiques pour le 08/03 ;
+    - **Se préparer** pour une évaluation sur la programmation en Python pour le 03/03 et la modélisation des liaisons cinématiques pour le 08/03 ;
     - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;    
 
 ***

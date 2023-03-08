@@ -26,8 +26,11 @@ nav:
     # - Chaine d'information :
     #   - Numération : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/ChaineInformation-Numeration.ipynb
     #   - Logiques : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/FonctionsLogiquesV1.ipynb
-    # - Projet :
-    #   - Modeliser_ma_rue.md
+    - Projets :
+      - Modeliser_ma_rue.md
+      - Bougeons_ensemble.md
+      - Course en Cours : https://course-en-cours.com/
+      
     
     - BBC micro:bit : https://ericecmorlaix.github.io/1SI_2022-2023/bbc_microbit/
     - Communiquer :

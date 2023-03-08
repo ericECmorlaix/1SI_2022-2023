@@ -1,5 +1,5 @@
 
-# Compteur d'énergie sur vélo de fitness
+# Compteur d'énergie sur vélo d'appartement
 
 ## Mise en situation
 
@@ -10,6 +10,9 @@ L'objectif est de mettre au point pour la journée "Bougeons Ensemble #2" qui se
 - calculer et afficher les énergies correspondantes aux exercices physiques successifs réalisés dans l'atelier:
     - énergie musculaire en Joules et en Calories, énergie électrique correspondante produite par un alternateur rechargeant la batterie d'un smartphone en Watt heure et en Ampères heure, temps d'usage d'un smartphone "S" pour un jeu "J"... 
     - cumul des énergies par vélo, pour chaque relayeur, par équipe sur l'atelier, et globalement sur la journée.
+
+![](../images/bougeons_ensemble.jpg){ .center width=50%}
+
 
 ## Tâches à réaliser
 
