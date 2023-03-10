@@ -22,8 +22,8 @@
 
     - Activités de projets :
         - [Bougeons ensemble](./Bougeons_ensemble) ;
-        - Course en cours ;
-        - ... ?    
+        - [Course en cours](https://course-en-cours.com/){target=_blank} ;
+        - [RoboFesta](./Epreuve_technique.pdf){target=_blank} ;    
 
 === "TRAVAIL À FAIRE"
 
