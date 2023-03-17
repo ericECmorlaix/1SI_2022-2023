@@ -27,9 +27,9 @@
 
     - **Progresser** en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
         - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `g9c6nn6f` fourni​​​ pour débuter le **Parcours_2** :
-            - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
-            - **conserver** progressivement une trace de vos scripts dans un [`notebook.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+        - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
+        - **conserver** progressivement une trace de vos scripts dans un [`notebook.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary}
      
 === "TRAVAIL À FAIRE"
 
