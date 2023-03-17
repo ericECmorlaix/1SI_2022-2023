@@ -16,6 +16,27 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 17 au 24/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Activités de projets :
+        - [Bougeons ensemble](./Bougeons_ensemble) ;
+        - [Course en cours](https://course-en-cours.com/){target=_blank} ;
+        - [RoboFesta](./Epreuve_technique.pdf){target=_blank} ;
+
+    - **Progresser** en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
+        - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `g9c6nn6f` fourni​​​ pour débuter le **Parcours_2** :
+            - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
+            - **conserver** progressivement une trace de vos scripts dans un [`notebook.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+     
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+
+***
 ## Du 09/03
 
 === "CONTENU DE SÉANCE"
