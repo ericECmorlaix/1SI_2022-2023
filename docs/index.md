@@ -24,16 +24,22 @@
         - [Bougeons ensemble](./Bougeons_ensemble) ;
         - [Course en cours](https://course-en-cours.com/){target=_blank} ;
         - [RoboFesta](./Epreuve_technique.pdf){target=_blank} ;
+        - [Astrolab](){target=_blank} ;
 
     - **Progresser** en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
         - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `g9c6nn6f` fourni​​​ pour débuter le **Parcours_2** :
         - ==**notez, transmettez-moi et conservez** votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre== ;
         - **conserver** progressivement une trace de vos scripts dans un [`notebook.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary}
+
+    - **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/EL/Circuit_Electrique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
      
 === "TRAVAIL À FAIRE"
 
     - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
+    - Faire les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2021-2022/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
 
 
 ***
