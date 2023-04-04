@@ -75,7 +75,7 @@ BBC micro:bit est un mini-ordinateur programmable de poche (une carte à [microc
 
 Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous allons utiliser celles basées sur MicroPython une version allégée de Python créée par Damien George pour la programmation de certains microcontôleurs dont celui du BBC micro:bit.
 
-### Les petites roues :bike:
+### Les petites roues
 
 1. On peut débuter avec l'éditeur en ligne [https://app.edublocks.org/](https://app.edublocks.org/){target=_blank} pour générer un script en python à partir des blocs d'instructions. Le principe consiste à glisser/déposer des blocs d'instructions du menu de gauche dans la zone graphique pour obtenir le code Python correspondant.
 
@@ -83,7 +83,7 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
 <iframe width='1080' height='720' allowfullscreen frameborder='0' style='border:1px #d6d6d6 solid;' src="https://app.edublocks.org/"></iframe>
 </figure>
 
-### L'ancienne méthode qui va bien :car:
+### L'ancienne méthode qui va bien
 
 2. Ensuite, pour tester un programme par simulation, on peut copier/coller le code en Python dans le simulateur de [https://create.withcode.uk/](https://create.withcode.uk/){target=_blank} et puis on clique sur le bouton `Run` ou la combinaison de touches `Ctrl+Entrée` pour l'exécuter...
 
@@ -95,7 +95,7 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
     - Pour revoir le résultat du programme une nouvelle fois, il faut redémarrer le BBC micro:bit en appuyant sur le bouton `RESET` situé à l'arrière de la carte...
 
 
-### La future méthode à expérimenter :rocket:
+### La nouvelle méthode tout en un
 
 (2+3). On peut désormais utiliser le nouvel éditeur micropython officiel dans sa version beta <https://python.microbit.org/v/beta>{target=_blank} qui possède un simulateur intégré...
 
@@ -106,11 +106,60 @@ Il existe différentes façon de programmer la carte BBC micro:bit, ici, nous al
 </figure>
 
 
+### Une solution locale Mu Editor
+
+[https://codewith.mu](https://codewith.mu/) propose un environnement de développement Python pour débutants basé sur le retour d'expérience d'enseignants et d'apprenants.
+
+<center><img src="https://ericecmorlaix.github.io/img/logoMu.png" width="70%"></center>
+
+#### Développer en local avec l'éditeur Mu :
+
+Lancer l'application de bureau `Mu`, au démarage choisir le mode `BBC micro:bit`
+
+Par rapport à [l'éditeur en ligne](https://python.microbit.org/){target=_blank}, cette application offre des fonctionnalités supplémentaires très intéressantes accessibles par ces quatres boutons :
+
+<center><img src="https://codewith.mu/img/en/tutorials/microbit_buttons.png" alt="Boutons de Mu pour micro:bit" width=22%></center>
+
+**Remarque** : ces boutons ne fonctionnent que s'il y a une carte BBC micro:bit connectée par un câble USB au PC.
+
+Ces fonctions sont exposées dans ce rapide tutoriel : <https://codewith.mu/en/tutorials/1.2/microbit>{target=_blank}
+
+Cliquer sur le bouton “Flash” permet en quelques secondes de téléverser votre code dans la mémoire flash du µC du BBC micro:bit en effaçant et remplaçant le programme précédent. En cas d'erreur dans votre code un message défilera sur la matrice à LED.
+
+<center><img src="https://codewith.mu/img/en/tutorials/microbit_flash.gif" alt="Boutons de Mu pour micro:bit" width=70%></center>
+
+Lorsqu'un programme MicroPython est téléversé dans un BBC micro:bit, il dispose d’un répertoire permettant de stocker des fichiers. Le bouton «Fichiers» de Mu facilite l’accès, la mise en place, la récupération et la suppression de fichiers sur votre appareil.
+
+Comme indiqué ci-dessous, cliquer sur «Fichiers» ouvre deux panneaux entre l’éditeur de texte et le pied de page de Mu. Le volet de gauche répertorie tous les fichiers du dossier BBC micro:bit, le volet de droite répertorie tous les fichiers de votre répertoire `mu_code` sur votre ordinateur. Faites glisser les fichiers de l'un à l'autre pour les copier. Pour supprimer un fichier sur le BBC micro:bit, cliquez dessus avec le bouton droit de la souris et sélectionnez «Supprimer».
+
+<center><img src="https://codewith.mu/img/en/tutorials/microbit_files.gif" alt="Boutons de Mu pour micro:bit" width=70%></center>
+
+**Remarque** : cette fonction n'est disponible que si vous avez préalablement chargé un fichier en MicroPython sur la carte.
+
+Le bouton «REPL» crée un nouveau volet entre l’éditeur de texte et le pied de page de Mu, qui se connecte à l'interpréteur MicroPython du périphérique BBC micro:bit. Le terme “REPL” est un acronyme et signifie “Lire, Évaluer, Imprimer, Boucler”, (Read-Evaluate-Print-Loop), ce qui décrit succinctement ce que le panneau fait pour vous. Il lit les instructions de Python que vous tapez, évalue leur signification, affiche le résultat obtenu, puis effectue une boucle pour attendre votre prochaine instruction Python.
+
+<center><img src="https://codewith.mu/img/en/tutorials/microbit_repl.gif" alt="Boutons de Mu pour micro:bit" width=70%></center>
+
+Comme vous pouvez le constater dans l'exemple ci-dessus, utiliser le REPL de MicroPython revient à avoir une conversation avec le BBC micro:bit en Python. Tout ce que vous pouvez faire dans un script Python classique, vous pouvez le faire dans le REPL. C’est une façon amusante d’explorer de façon ludique les capacités de MicroPython sur le BBC micro:bit.
+
+***Par exemple, commencez par taper `help()`dans le REPL de l'éditeur Mu et laissez-vous guider par les propositions suggérées là... Saurez-vous y découvrir le Zen de MicroPython ?***
+
+Enfin, le bouton "Plot" ouvre le traceur de Mu. Si votre BBC micro:bit produit des tuples de nombres via la connexion série, le traceur les affiche sous forme de graphique. Ceci est extrêmement utile pour visualiser les données que vous pourriez mesurer via le BBC micro:bit. Pour plus d’informations à ce sujet, lisez [le tutoriel sur le traceur de Mu](https://codewith.mu/en/tutorials/1.0/plotter){target=_blank} ou encore sur le site officiel du BBC micro:bit le tutoriel intitulé ["Visualiser en temps réel les données des capteurs du Micro:bit avec Python et Mu"](https://microbit.org/fr/2018-09-03-python-mu-datalogging/){target=_blank}.
+
+<center><img src="https://codewith.mu/img/en/tutorials/microbit_plotter.gif" alt="Boutons de Mu pour micro:bit" width=70%></center>
+
+
+Le site de l'éditeur Mu : <http://codewith.mu>{target=_blank} et son dépot GitHub : <https://github.com/mu-editor/mu>{target=_blank}
+
+
+Voici une autre activité pour débuter en BBC microbit avec mu editor : <https://matthieu-branthome.github.io/activite/index.html>{target=_blank}
+
 > **Autres solutions :**
 >
 > - [microsoft makecode](https://makecode.microbit.org/){target=_blank} ;
 > - [vittascience](https://fr.vittascience.com/microbit/?mode=mixed&console=bottom&toolbox=vittascience&simu=1){target=_blank} ;
-> - [L'éditeur Mu](https://codewith.mu/){target=_blank} sur PC ;
+> - **TigerJython** est une autre solution pour programmer et simuler en local un [BBC micro:bit](https://www.tigerjython4kids.ch/franz/index.php?inhalt_links=navigation.inc.php&&inhalt_mitte=robotik/microbit/microbit.inc.php){target=_blank} ou encore une carte [Calioppe](https://www.tigerjython4kids.ch/index.php?inhalt_links=robotik/navigation.inc.php&inhalt_mitte=robotik/calliope/calliope.inc.php){target=_blank} ;
+
 
 
 
