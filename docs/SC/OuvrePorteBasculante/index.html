@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Ouvre Porte Basculante</title>
+    <meta name="description" content="Etude de la cinématique et de l'automatisme d'une porte basculante de garage">
+    <meta name="keywords" content="sciences de l'ingénieur, cinématique, automatisme ">
+    <meta name="author" content="Eric MADEC">
+    <base href="" target="_blank">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.4/p5.min.js"></script>
+    <script src="script.js"></script> -->
+</head>
+<body>
+  <header>
+    <table>
+      <tr>
+          <td class="vignette">
+            <a href="http://lycee.ecmorlaix.fr/"><img src="img/LogoDuLycee.jpg" alt="Logo du lycée" height="100" ></a>
+          </td>
+          <td>
+            <h1 class="mauve">
+              Sciences de l'ingénieur
+            </h1>
+            <h2 class="argent">
+              Ouvre Porte Basculante de Garage
+            </h2>
+          </td>
+          <td class="vignette">
+            <img src="img/SituationPorteBasculanteGarage.jpg" alt="Image de situation d'une porte basculante de garage" height="100" >
+          </td>
+      </tr>
+    </table>
+  </header>
+  <hr>
+  <h3>
+    Mise en situation du besoin :
+  </h3>
+  <p>La porte de garage manuelle nécessite que l'utilisateur :<ul><li>descende de son véhicule, ce qui engendre une perte de temps voir une interruption de la circulation ;</li><li>ouvre la porte, ce qui n'est pas toujours chose aisée.</li></ul><br>Pour ces raisons la porte de garage manuelle ne donne pas satisfaction aux utilisateurs. Il est donc nécessaire d'automatiser l'ouverture et la fermeture de la porte de garage, par un système dont le cahier des charges est décrit ci-après.</p>
+  <h3>
+    Cahier des charges fonctionnel :
+  </h3>
+  <p>Ce système doit s'adapter aux principaux différents modèles de portes de garage basculantes qui existent sur le marché actuel et s'alimenter sur l'énergie électrique du réseau domestique.
+    <br>La partie opérative du système doit :
+    <ul>
+      <li>permettre le dégagement complet de l'embrasure de la porte ;</li>
+      <li>ne pas encombrer la circulation des véhicules et des piétons ;</li>
+      <li>se fixer au plafond du garage ;</li>
+      <li>interdire l'ouverture manuelle de la porte depuis l'extérieur (verrouillage) ;</li>
+      <li>permettre la manoeuvre manuelle de la porte depuis l'intérieur en cas de panne.</li>
+    </ul>
+  </p>
+  <figure>
+    <img src="img/SituationDispositif.png" alt="Image de situation du dispositif" width="500" >
+    <figcaption>figure 1</figcaption>
+  </figure>
+  
+  <p>La partie commande du système doit gèrer l'ouverture et la fermeture automatique de la porte en réponse aux ordres donnés par l'utilisateur:
+    <ul>
+      <li>à distance à l'aide d'une télécommande ;</li>
+      <li>aux abords extérieurs du garage,
+        <ul>
+          <li>à l'aide d'un contact à serrure,</li>
+          <li>ou d'un clavier à code digital ;</li>
+        </ul>
+      </li>
+      <li>à l'aide d'un bouton placé à l'intérieur du garage.</li>
+    </ul>
+    <br>La porte se déplace et ne s'arrête que, si l'utilisateur actionne de nouveau un des dispositifs de dialogue avec la commande ou lorsqu'une butée de fin de course est atteinte.
+    <br>En cas d'obstacles, le système doit arrêter la porte puis l'actionner dans l'autre sens (procédure de dégagement) durant un court instant afin de se libérer de l'obstacle.
+    <br>Le système inclus également un dispositif pour éclairer le garage lors des manoeuvres de la porte et, pour ne pas laisser l'utilisateur dans l'obscurité, cet éclairage ne s'éteint que 3 minutes après l'arrêt complet de la porte.
+  </p>
+
+  <h3>
+    Objectif de l'étude :
+  </h3>
+  <p>
+    Dans un premier temps, il s'agit de mener une étude cinématique afin de confirmer qu'un actionneur de type chariot en translation linéaire par rapport à un rail fixé sur le plafond du garage tel que le système 
+    <a href="pdf/NoticeSprint550S.pdf">SOMMER Sprint 550S</a> présent dans le laboratoire de SI, est bien adapté pour manoeuvrer les mécanismes classiques de portes de garage.
+  </p>
+  <figure>
+    <img src="img/SprintEvolution.jpg" alt="Image d'un Kit de motorisation de porte de garage de marque SOMMER" width="500">
+    <figcaption>Kit de motorisation de porte de garage de marque SOMMER</figcaption>
+  </figure>
+  <p>
+    Ensuite, il faudra imaginer une logique de commande programmée répondant au cdcf et la valider par expérimentation sur la maquette de garage à échelle réduite du laboratoire de SI. Sur cette maquette le traitement de l'information est réalisée par une carte Arduino UNO.
+  </p>
+  <table>
+      <tr>
+          <td class="vignette">
+            <img src="img/MaquetteReduitePorteBasculanteDeGarage.jpg" alt="Image de la Maquette réduite de porte basculante de garage" width="400">
+            <figcaption><a href="">Maquette réduite de porte basculante de garage</a></figcaption>
+          </td>
+          
+          <td class="vignette">
+            <img src="img/ArduinoUnoR3.jpg" alt="Image d'une carte Arduino UNO révision 3" width="300">
+            <figcaption><a href="https://www.arduino.cc/en/Main/ArduinoBoardUno#">Carte Arduino UNO révision 3</a></figcaption>
+          </td>
+      </tr>
+    </table>
+  <hr>
+  <h3>
+    Cinématique d'une porte basculante :
+  </h3>
+  <h4>
+    Etude graphique :
+  </h4>
+  <figure>
+    <iframe src="pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf" width="49%" height="800" style="border:none;"></iframe>
+    <iframe src="pdf/TDCinematiqueOuvrePorteBasculanteFigure.pdf" width="49%" height="800" style="border:none;"></iframe>
+    <a href="PorteDeGarageCinematiqueGraphique.zip">Code source LaTeX du projet</a>
+  </figure>
+  <h4>
+    Simulation :
+  </h4>
+  <p>
+    Mener une simulation de ce mécanisme à l'aide de SolidWorksMotion afin de valider votre construction graphique : <a href="PorteDeGarageSolidWorks.zip">PorteDeGarageSolidWorks.zip</a>
+  </p>
+   <h4>
+    Prolongement :
+  </h4>
+  <p>Citer et représenter par un schéma d'autres mécanismes de porte de garage qui pourraient être automatisés par le kit de motorisation Sprint 550S de la marque SOMMER présenté par sa notice ci-dessous...</p>
+
+  <figure id="Sprint550S">
+    <iframe src="pdf/NoticeSprint550S.pdf" width="90%" height="800px" style="border:none;"></iframe>
+  </figure>
+  <hr>
+  <h3>
+    Logique de commande programmée d'une porte basculante :
+  </h3>
+  <h4>
+    Découverte de la programmation des cartes Arduino :
+  </h4>
+  <h5>
+    Avec mBlock :
+  </h5>
+  <p></p>
+  <figure>
+    <iframe src="pdf/mBlockArduino.pdf" width="90%" height="800" style="border:none;"></iframe>
+    <figcaption>
+      <a href="pdf/mBlockArduino.pdf">Aide pour la prise en main d'Arduino avec mBlock</a>
+    </figcaption>
+  </figure>
+  <h5>
+    Avec MatLab/Simulink :
+  </h5>
+  <p></p>
+  <a href="file:///C:\MATLAB\SupportPackages\R2015b\arduino\help\supportpkg\arduino\examples.html">Aide pour la prise en main d'Arduino avec Simulink</a>
+  <h4>
+    Expérimentation sur la maquette de porte basculante de garage :
+  </h4>
+  <p>A partir du tableau de connexion des entrées et sorties de la maquette à la carte arduino, imaginer et tester un programme répondant au cdcf :</p>
+  <table class="bordure">
+    <tr>
+        <th>Entrées</th>
+        <th></th>
+        <th>Sorties</th>
+    </tr>
+    <tr>
+        <th>
+        	<table>
+			    <tr>
+			        <th class="bordure">Télécommande</th>
+			        <th class="bordure">D2</th>
+			    </tr>
+			    <tr >
+			        <td class="bordure">BP intérieur</td>
+			        <td class="bordure">D3</td>
+			    </tr>
+			    <tr >
+			        <td class="bordure">FDC porte ouverte</td>
+			        <td class="bordure">D4</td>
+			    </tr>
+			    <tr>
+			        <td class="bordure">FDC porte fermée</td>
+			        <td class="bordure">D5</td>
+			    </tr>
+			    <tr>
+			        <td class="bordure">Serrure extérieur</td>
+			        <td class="bordure">D6</td>
+			    </tr>
+			</table>
+		</th>
+        <th>
+        	<img src="img/ArduinoUnoR3.jpg" alt="Image d'une carte Arduino UNO révision 3" width="200">            
+        </th>
+        <th>
+        	<table>
+			    <tr>
+			        <th class="bordure">D11</th>
+			        <th class="bordure">Ouvrir porte</th>
+			    </tr>
+			    <tr>
+			        <td class="bordure">D12</td>
+			        <td class="bordure">Fermer porte</td>
+			    </tr>
+			</table>
+		</th>
+    </tr>
+</table>
+<p>Avant de programmer, pour décrire et analyser clairement le comportement séquentiel d'un système, il est très utile de réaliser un diagramme d'état :</p>
+<figure>
+	<figcaption>Fiche : Graphe d'état</figcaption>
+    <img src="img/grapheEtats.png" alt="Cours de graphe d'états" width="800">
+</figure>
+
+<p>Après avoir réalisé un diagramme d'état pour décrire le fonctionnement attendu pour la porte de garage, compléter le programme du fichier <a href="ProgrammeOuvrePorteBasculante.sb2">ProgrammeOuvrePorteBasculante.sb2</a> avec mBlock et valider sur la maquette expérimentale...</p>
+
+ </body>
