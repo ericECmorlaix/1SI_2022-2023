@@ -24,6 +24,37 @@
 - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
+
+***
+## Du 03/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction évaluation schéma cinématique "Casse-écrou" et "Manequin choc piéton" ;
+    - Remédiation schéma cinématique ["Coupe-tube"](./SC/coupe_tube.pdf){target=_blank} ;
+    - Correction évaluation schéma cinématique ["Imprimante 3D"](https://perso.crans.org/geneau/NewCligne/ressources/PDF/359_%20Sch%c3%a9ma%20cin%c3%a9-%20Imprimante%203D.pdf){target=_blank} ;
+    - TD Cinematique Ouvre Porte Basculante :
+        - [Figure](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteFigure.pdf){target=_blank} 
+        - [Questions](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf){target=_blank}
+        - [Modèle Onshape](https://cad.onshape.com/documents/6a6416ba4d7a24fd56430c53/w/e2b55095d2588d686a0c1ac8/e/5176f6e2731841f719749df9){target=_blank}
+        - [Notice Sprint 550S](./SC/OuvrePorteBasculante/pdf/NoticeSprint550S.pdf){target=_blank}
+
+
+=== "TRAVAIL À FAIRE"
+
+    - Devoir Maison en électricité :
+        - [Exercices 8, 9 et 10](https://ericecmorlaix.github.io/1SI_2022-2023/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+        - [Imprimante 3D](https://perso.crans.org/geneau/NewCligne/ressources//PDF/601_Elect%20%20Imprimante%203D.pdf){target=_blank} ;
+        - [Lanceur de balle de Pingpong](https://perso.crans.org/geneau/NewCligne/ressources//PDF/603_Elect%20Lanceur%20balle_ping%20pong.pdf){target=_blank} ;
+        - [Robot tondeuse](https://perso.crans.org/geneau/NewCligne/ressources/PDF/605_Elect%20Robot%20tondeuse.pdf){target=_blank} ;
+    
+    - Devoir Maison en programmation :
+        - Finir la programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} et transmettre un [`notebook.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} complété ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2022-2023/PY/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary}  
+
+    - Réviser et s'entrainer encore pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
+
+
 ***
 ## Du 12/04
 
