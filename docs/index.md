@@ -33,11 +33,12 @@
     - Correction évaluation schéma cinématique "Casse-écrou" et "Manequin choc piéton" ;
     - Remédiation schéma cinématique ["Coupe-tube"](./SC/coupe_tube.pdf){target=_blank} ;
     - Correction évaluation schéma cinématique ["Imprimante 3D"](https://perso.crans.org/geneau/NewCligne/ressources/PDF/359_%20Sch%c3%a9ma%20cin%c3%a9-%20Imprimante%203D.pdf){target=_blank} ;
-    - TD Cinematique Ouvre Porte Basculante :
+    - TD Cinématique Ouvre Porte Basculante :
         - [Figure](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteFigure.pdf){target=_blank} 
         - [Questions](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf){target=_blank}
         - [Modèle Onshape](https://cad.onshape.com/documents/6a6416ba4d7a24fd56430c53/w/e2b55095d2588d686a0c1ac8/e/5176f6e2731841f719749df9){target=_blank}
         - [Notice Sprint 550S](./SC/OuvrePorteBasculante/pdf/NoticeSprint550S.pdf){target=_blank}
+    - Application au [vélo elliptique](./SU/Velo_elliptique_A.pdf)
 
 
 === "TRAVAIL À FAIRE"
