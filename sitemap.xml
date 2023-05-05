@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ericecmorlaix.github.io/1SI_2022-2023/</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/1SI_2022-2023/Bougeons_ensemble/</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/1SI_2022-2023/Modeliser_ma_rue/</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/1SI_2022-2023/github/</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/1SI_2022-2023/notebook/</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ericecmorlaix.github.io/1SI_2022-2023/bbc_microbit/</loc>
+         <lastmod>2023-05-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
