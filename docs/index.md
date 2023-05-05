@@ -38,7 +38,7 @@
         - [Questions](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf){target=_blank}
         - [Modèle Onshape](https://cad.onshape.com/documents/6a6416ba4d7a24fd56430c53/w/e2b55095d2588d686a0c1ac8/e/5176f6e2731841f719749df9){target=_blank}
         - [Notice Sprint 550S](./SC/OuvrePorteBasculante/pdf/NoticeSprint550S.pdf){target=_blank}
-    - Application au [vélo elliptique](./SU/Velo_elliptique_A.pdf)
+    - Application au [vélo elliptique](./SU/Velo_elliptique_A.pdf) : ==**Faire** la 1^ère partie pour le 11/05== 
 
 
 === "TRAVAIL À FAIRE"
